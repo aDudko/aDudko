@@ -2,14 +2,14 @@
 
 This account contains these open repositories:
 - **A series of projects `in action`**:  
-  - [Spring Security with JWT in Action](https://github.com/aDudko/spring-security-with-jwt-in-action) - example of Spring Security implementation with JWT
-  - [Spring Data with Liquibase in Action](https://github.com/aDudko/spring-data-with-liquibase-in-action) - example of Spring Data implementation with Liquibase
-  - [Blockchain Banking in Action](https://github.com/aDudko/blockchain-banking-in-action) - example of blockchain technology on simple banking transactions
-  - [Spring AI with OpenAI and Milvus in Action](https://github.com/aDudko/spring-ai-with-openai-and-milvus-in-action) - the AI-based service to make recommendations based on user documents
-  - [Spring Boot with Elasticsearch in Action](https://github.com/aDudko/spring-boot-with-elastic-in-action) - example of implementing CRUD operations for Elasticsearch in Spring Boot applications
-  - [Spring Boot with Redis in Action](https://github.com/aDudko/spring-boot-with-redis-in-action) - example of object caching in Redis for Spring Boot applications
-  - [Spring Boot with MongoDB in Action](https://github.com/aDudko/spring-boot-with-mongodb-in-action) - example of implementing CRUD operations for MongoDB in Spring Boot applications
-- [Blockchain Cryptocurrency](https://github.com/aDudko/blockchain-cryptocurrency) - the basic implementation of a blockchain and cryptocurrency application
+  - [Spring Security with JWT in Action](https://github.com/aDudko/spring-security-with-jwt-in-action) - example of `Spring Security` implementation with `JWT`
+  - [Spring Data with Liquibase in Action](https://github.com/aDudko/spring-data-with-liquibase-in-action) - example of `Spring Data` implementation with `Liquibase`
+  - [Blockchain Banking in Action](https://github.com/aDudko/blockchain-banking-in-action) - example of `blockchain technology` on simple banking transactions
+  - [Spring AI with OpenAI and Milvus in Action](https://github.com/aDudko/spring-ai-with-openai-and-milvus-in-action) - the `AI`-based service to make recommendations based on user documents
+  - [Spring Boot with Elasticsearch in Action](https://github.com/aDudko/spring-boot-with-elastic-in-action) - example of implementing CRUD operations for `Elasticsearch` in `Spring Boot` applications
+  - [Spring Boot with Redis in Action](https://github.com/aDudko/spring-boot-with-redis-in-action) - example of object caching in `Redis` for `Spring Boot` applications
+  - [Spring Boot with MongoDB in Action](https://github.com/aDudko/spring-boot-with-mongodb-in-action) - example of implementing CRUD operations for `MongoDB` in `Spring Boot` applications
+- [Blockchain Cryptocurrency](https://github.com/aDudko/blockchain-cryptocurrency) - the basic implementation of a `blockchain` and `cryptocurrency` application
 - **Projects** for which I am happy to share a demo version (details with instructions on how to run it can be found in the repository itself), but I do not provide full access to the implementation, as I believe that the projects have excellent commercial potential, and I would not like them to be used without my knowledge.
   - **[Negozio](https://github.com/aDudko/negozio)**: a platform for distributed business management.
   - **[Nebula](https://github.com/aDudko/nebula)** (in progress): a platform for data processing and analysis.
