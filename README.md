@@ -10,6 +10,7 @@ This account contains these open repositories:
   - [Spring Boot with Redis in Action](https://github.com/aDudko/spring-boot-with-redis-in-action) - example of object caching in `Redis` for `Spring Boot` applications
   - [Spring Boot with MongoDB in Action](https://github.com/aDudko/spring-boot-with-mongodb-in-action) - example of implementing CRUD operations for `MongoDB` in `Spring Boot` applications
 - [Blockchain Cryptocurrency](https://github.com/aDudko/blockchain-cryptocurrency) - the basic implementation of a `blockchain` and `cryptocurrency` application
+- [DB Migrator](https://github.com/aDudko/containerized-database-migrator-with-liquibase) - сontainerized tool for automatic database migrations with Liquibase
 - **Projects** for which I am happy to share a demo version (details with instructions on how to run it can be found in the repository itself), but I do not provide full access to the implementation, as I believe that the projects have excellent commercial potential, and I would not like them to be used without my knowledge.
   - **[Negozio](https://github.com/aDudko/negozio)**: a platform for distributed business management.
   - **[Nebula](https://github.com/aDudko/nebula)** (in progress): a platform for data processing and analysis.
