@@ -1,6 +1,9 @@
 ## About this account
 
 This account contains these open repositories:
+- **Tools**:
+  - [Safe Java Streams](https://github.com/aDudko/safe-java-streams) - a lightweight Java library that adds functional utilities for exception handling and value processing, enabling cleaner, safer and more predictable code
+  - [DB Migrator](https://github.com/aDudko/containerized-database-migrator) - сontainerized tool for automatic database migrations with `Liquibase`
 - **A series of projects `in action`**:  
   - [Spring Security with JWT in Action](https://github.com/aDudko/spring-security-with-jwt-in-action) - example of `Spring Security` implementation with `JWT`
   - [Spring Data with Liquibase in Action](https://github.com/aDudko/spring-data-with-liquibase-in-action) - example of `Spring Data` implementation with `Liquibase`
@@ -10,7 +13,6 @@ This account contains these open repositories:
   - [Spring Boot with Redis in Action](https://github.com/aDudko/spring-boot-with-redis-in-action) - example of object caching in `Redis` for `Spring Boot` applications
   - [Spring Boot with MongoDB in Action](https://github.com/aDudko/spring-boot-with-mongodb-in-action) - example of implementing CRUD operations for `MongoDB` in `Spring Boot` applications
 - [Blockchain Cryptocurrency](https://github.com/aDudko/blockchain-cryptocurrency) - the basic implementation of a `blockchain` and `cryptocurrency` application
-- [DB Migrator](https://github.com/aDudko/containerized-database-migrator) - сontainerized tool for automatic database migrations with `Liquibase`
 - [Streaming Data Loader](https://github.com/aDudko/streaming-data-loader) - tool for efficient loading and processing of streaming data from `Kafka` to `Elasticsearch`
 - **Projects** for which I am happy to share a demo version (details with instructions on how to run it can be found in the repository itself), but I do not provide full access to the implementation, as I believe that the projects have excellent commercial potential, and I would not like them to be used without my knowledge.
   - **[Negozio](https://github.com/aDudko/negozio)**: a platform for distributed business management.
@@ -41,4 +43,4 @@ You can also find some docker containers on my [Docker Hub profile](https://hub.
 
 ---
 
-You can find out more about me from my **LinkedIn profile** - see attached link
+You can find out more about me from my **[LinkedIn](https://www.linkedin.com/in/dudko-anatol/) profile**
